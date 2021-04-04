@@ -1,0 +1,6 @@
+projectKey=CompleteCI
+serverUrl=http://localhost:55019
+serverVersion=8.8.0.42792
+dashboardUrl=http://localhost:55019/dashboard?id=CompleteCI
+ceTaskId=AXidbfpSCibCLZPkZrCg
+ceTaskUrl=http://localhost:55019/api/ce/task?id=AXidbfpSCibCLZPkZrCg
